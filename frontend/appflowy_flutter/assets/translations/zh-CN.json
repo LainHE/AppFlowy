@@ -385,9 +385,9 @@
       }
     },
     "plugins": {
-      "referencedBoard": "引用的看板",
-      "referencedGrid": "引用的网格",
-      "referencedCalendar": "引用的日历",
+      "referencedBoard": "看板（引用）",
+      "referencedGrid": "网格（引用）",
+      "referencedCalendar": "日历（引用）",
       "autoGeneratorMenuItemName": "OpenAI 创作",
       "autoGeneratorTitleName": "OpenAI: 让 AI 写些什么...",
       "autoGeneratorLearnMore": "学习更多",
@@ -446,7 +446,7 @@
         "align": "对齐",
         "left": "左",
         "center": "中心",
-        "right": "又",
+        "right": "右",
         "defaultColor": "默认"
       }
     }
